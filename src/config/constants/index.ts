@@ -1,7 +1,7 @@
 import { ChainId, JSBI, Percent, Token } from '@honorswap/testnetsdk'
 import { mainnetTokens, testnetTokens } from './tokens'
 
-export const ROUTER_ADDRESS = '0x10ED43C718714eb63d5aA57B78B54704E256024E'
+export const ROUTER_ADDRESS = '0xB24cfB6bcDb5a4a658a74ac488BF6d25b25019A8'
 
 // a list of tokens by chain
 type ChainTokenList = {
